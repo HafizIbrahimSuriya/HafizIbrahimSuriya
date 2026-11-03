@@ -2,8 +2,8 @@ name: Profile summary cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # once a day, 00:00 UTC
-  workflow_dispatch: # lets you run it by hand from the Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -16,11 +16,9 @@ jobs:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # Uses SUMMARY_GITHUB_TOKEN (a personal access token) if you add one,
-          # otherwise falls back to the built-in token.
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
-          UTC_OFFSET: 5 # Karachi
+          UTC_OFFSET: 5
           AUTO_PUSH: true
