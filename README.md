@@ -36,20 +36,20 @@ I am a vibe coder from Karachi, Pakistan. I learn by building: I start with an i
 </div>
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>Web Development</h4>
-      HTML structure, CSS layout and styling, and JavaScript for interactive interfaces.
-    </td>
-    <td width="33%" valign="top">
-      <h4>Python</h4>
-      Scripting, automation, command-line tools and small desktop or terminal applications.
-    </td>
-    <td width="33%" valign="top">
-      <h4>Cybersecurity</h4>
-      Red team and blue team concepts, ethical hacking fundamentals, detection and defense.
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left" width="33%">Web Development</th>
+      <th align="left" width="33%">Python</th>
+      <th align="left" width="33%">Cybersecurity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left" valign="top">HTML structure, CSS layout and styling, and JavaScript for interactive interfaces.</td>
+      <td align="left" valign="top">Scripting, automation, command-line tools and small desktop or terminal applications.</td>
+      <td align="left" valign="top">Red team and blue team concepts, ethical hacking fundamentals, detection and defense.</td>
+    </tr>
+  </tbody>
 </table>
 
 <div align="center">
@@ -58,20 +58,16 @@ I am a vibe coder from Karachi, Pakistan. I learn by building: I start with an i
 
 ![GitHub Stats](https://capsule-render.vercel.app/api?type=transparent&height=60&text=GitHub%20Stats&fontSize=30&fontColor=C9A36B&fontAlign=50&fontAlignY=50)
 
-<!-- These cards are generated into this repo by .github/workflows/profile-cards.yml -->
+<!-- Generated into this repo by .github/workflows/profile-cards.yml -->
 <a href="https://github.com/HafizIbrahimSuriya">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
-    <img alt="GitHub stats" src="profile-summary-card-output/github/3-stats.svg" width="48%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HafizIbrahimSuriya/HafizIbrahimSuriya/main/profile-summary-card-output/github_dark/3-stats.svg">
+    <img alt="GitHub stats" src="https://raw.githubusercontent.com/HafizIbrahimSuriya/HafizIbrahimSuriya/main/profile-summary-card-output/github/3-stats.svg" width="48%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img alt="Top languages" src="profile-summary-card-output/github/2-most-commit-language.svg" width="48%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HafizIbrahimSuriya/HafizIbrahimSuriya/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img alt="Top languages" src="https://raw.githubusercontent.com/HafizIbrahimSuriya/HafizIbrahimSuriya/main/profile-summary-card-output/github/2-most-commit-language.svg" width="48%">
   </picture>
-</a>
-
-<a href="https://github.com/HafizIbrahimSuriya">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=HafizIbrahimSuriya&theme=transparent&hide_border=true&stroke=C9A36B&ring=C9A36B&fire=C9A36B&currStreakLabel=C9A36B&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=6e7681">
 </a>
 
 ![Connect With Me](https://capsule-render.vercel.app/api?type=transparent&height=60&text=Connect%20With%20Me&fontSize=30&fontColor=C9A36B&fontAlign=50&fontAlignY=50)
