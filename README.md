@@ -68,20 +68,6 @@ I am a vibe coder from Karachi, Pakistan. I learn by building: I start with an i
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=Featured%20Projects&fontSize=30&fontColor=C9A36B&fontAlign=0&fontAlignY=50" width="100%" alt="Featured Projects" />
-
-<div align="center">
-
-<a href="https://github.com/HafizIbrahimSuriya/PhantomCLI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HafizIbrahimSuriya&repo=PhantomCLI&theme=transparent&hide_border=true&title_color=C9A36B&text_color=8b949e&icon_color=C9A36B" alt="PhantomCLI" />
-</a>
-<a href="https://github.com/HafizIbrahimSuriya/Fire-NoteMaker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HafizIbrahimSuriya&repo=Fire-NoteMaker&theme=transparent&hide_border=true&title_color=C9A36B&text_color=8b949e&icon_color=C9A36B" alt="Fire-NoteMaker" />
-</a>
-<a href="https://github.com/HafizIbrahimSuriya/Ro-Viewer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HafizIbrahimSuriya&repo=Ro-Viewer&theme=transparent&hide_border=true&title_color=C9A36B&text_color=8b949e&icon_color=C9A36B" alt="Ro-Viewer" />
-</a>
-
 </div>
 
 <br/>
